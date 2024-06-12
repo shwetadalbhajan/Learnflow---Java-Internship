@@ -1,4 +1,5 @@
-# LEARNFLOW-JAVA
+# LEARNFLOW - Java Internship
+
 There are 4 Projects here:
 
 1. Online Banking System: An Online Banking System that enables users to perform various bankingboperations, including account balance inquiries, fund transfers, and transaction history.
