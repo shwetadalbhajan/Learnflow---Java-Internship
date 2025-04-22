@@ -1,6 +1,6 @@
 # LEARNFLOW - Java Internship
 
-There are 4 Projects here:
+During the tenure of internship as Java developer in LearnFlow services, I create these projects which are as follows. There are 4 Projects here:
 
 1. Online Banking System: An Online Banking System that enables users to perform various bankingboperations, including account balance inquiries, fund transfers, and transaction history.
 
